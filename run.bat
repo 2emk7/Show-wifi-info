@@ -1,2 +1,2 @@
-node Re-q-v1.js
+node main.js
 PAUSE
